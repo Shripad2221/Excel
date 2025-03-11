@@ -1,5 +1,4 @@
 # Excel
-adventure works project
 # AdventureWorks Excel Dashboard
 
 ## 📌 Project Overview
@@ -13,7 +12,7 @@ This project is an **interactive Excel dashboard** created using the **Adventure
 - **KPI Indicators**: Key business metrics for decision-making.
 
 ## 📁 File Included
-- `AdventureWorks_Dashboard.xlsx` – The main Excel dashboard file.
+- `excel.zip` – The main Excel dashboard file.
 
 ## 🛠 Tools Used
 - **Microsoft Excel**: Pivot tables, charts, and slicers.
@@ -25,6 +24,4 @@ This project is an **interactive Excel dashboard** created using the **Adventure
 3. Use the filters and slicers to interact with the data.
 4. Analyze the insights provided by the dashboard.
 
-## 📩 Contact & Feedback
-If you have any feedback or suggestions, feel free to connect with me on **GitHub**. Your thoughts are highly appreciated! 🚀
 
