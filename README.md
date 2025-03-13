@@ -8,6 +8,9 @@ This is an interactive **Excel dashboard** that visualizes key sales performance
 ✔ **Quarterly and Monthly Sales Performance**  
 ✔ **Sales vs. Production Cost Comparison**  
 
+## 🖼 Dashboard Preview
+![Dashboard Preview](dasboard.png)
+
 ## **📌 Key Insights from the Dashboard**  
 1️⃣ **Total Sales:** $2,93,58,677  
 2️⃣ **Total Profit:** $1,20,80,884  
