@@ -12,16 +12,27 @@ This project is an **interactive Excel dashboard** created using the **Adventure
 - **KPI Indicators**: Key business metrics for decision-making.
 
 ## 📁 File Included
-- `excel.zip` – The main Excel dashboard file.
+ The main Excel dashboard file.
 
 ## 🛠 Tools Used
 - **Microsoft Excel**: Pivot tables, charts, and slicers.
 - **Power Query**: Data transformation.
 
 ## 🚀 How to Use
-1. Download the `AdventureWorks_Dashboard.xlsx` file.
-2. Open it in **Microsoft Excel** (latest version recommended).
-3. Use the filters and slicers to interact with the data.
-4. Analyze the insights provided by the dashboard.
+1. Download the file mentioned below
+    Adventure details.docx
+   a.DimDate.xlsx
+   b.DimProduct.xlsx
+   c.DimProductCategory.xlsx
+   d.DimProductSubCategory.xlsx
+   e.DimSalesterritory.xlsx
+   f.Dimcustomer.xlsx
+   g.FactInternetSales.xlsx
+   h.Fact_Internet_Sales_New.xlsx
+   i.Project Info and Schedule.pptx
+   g.Questinaires.xlsx
+3. Open it in **Microsoft Excel** (latest version recommended).
+4. Use the filters and slicers to interact with the data.
+5. Analyze the insights provided by the dashboard.
 
 
