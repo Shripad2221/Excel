@@ -9,7 +9,7 @@ This is an interactive **Excel dashboard** that visualizes key sales performance
 ✔ **Sales vs. Production Cost Comparison**  
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](dasboard.png)
+![Dashboard Preview](dashboard.png)
 
 ## **📌 Key Insights from the Dashboard**  
 1️⃣ **Total Sales:** $2,93,58,677  
