@@ -1,11 +1,11 @@
 📊 Adventure Works Sales Dashboard - Excel Analysis
 Overview
 This is an interactive Excel dashboard that visualizes key sales performance metrics for Adventure Works. The dashboard helps analyze:
-✔ Total Sales, Total Profit, and Number of Sales
-✔ Year-wise and Region-wise Sales Trends
-✔ Top Markets, Products, and Customers
-✔ Quarterly and Monthly Sales Performance
-✔ Sales vs. Production Cost Comparison
+-- Total Sales, Total Profit, and Number of Sales
+-- Year-wise and Region-wise Sales Trends
+-- Top Markets, Products, and Customers
+-- Quarterly and Monthly Sales Performance
+-- Sales vs. Production Cost Comparison
 
 📌 Key Insights from the Dashboard
 1️⃣ Total Sales: $2,93,58,677
