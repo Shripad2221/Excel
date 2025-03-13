@@ -19,18 +19,9 @@ This project is an **interactive Excel dashboard** created using the **Adventure
 - **Power Query**: Data transformation.
 
 ## 🚀 How to Use
-1. Download the file mentioned below
-    Adventure details.docx
-   a.DimDate.xlsx
-   b.DimProduct.xlsx
-   c.DimProductCategory.xlsx
-   d.DimProductSubCategory.xlsx
-   e.DimSalesterritory.xlsx
-   f.Dimcustomer.xlsx
-   g.FactInternetSales.xlsx
-   h.Fact_Internet_Sales_New.xlsx
-   i.Project Info and Schedule.pptx
-   g.Questinaires.xlsx
+1. Download this files mentioned.
+    (Adventure details.docx ,DimDate.xlsx ,DimProduct.xlsx,DimProductCategory.xlsx,DimProductSubCategory.xlsx,DimSalesterritory.xlsx,Dimcustomer.xlsx,FactInternetSales.xlsx
+   ,Fact_Internet_Sales_New.xlsx,Project Info and Schedule.pptx,Questinaires.xlsx
 3. Open it in **Microsoft Excel** (latest version recommended).
 4. Use the filters and slicers to interact with the data.
 5. Analyze the insights provided by the dashboard.
